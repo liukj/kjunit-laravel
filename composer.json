@@ -1,0 +1,17 @@
+{
+    "name": "kim\/kjunit-laravel",
+    "description": "A simplified version of the laravel framework unit test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kim",
+            "email": "908338183@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kim\\KJunitLaravel\\": "src"
+        }
+    }
+}
